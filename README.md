@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Design and Development](https://github.com/bugs2106/bugs2106/blob/main/github-banner.png)
 <h1 align="center">Hi 👋, I'm Bhakti Banaulikar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
