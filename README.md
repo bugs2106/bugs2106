@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Design and Development](https://github.com/bugs2106/bugs2106/blob/main/github-banner.png)
-<h1 align="center">Hi 👋, I'm Bhakti Banaulikar</h1>
+<h1 align="center">Hi <div class="tenor-gif-embed" data-postid="19369358" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/elsalla-gif-19369358">Elsalla Sticker</a>from <a href="https://tenor.com/search/elsalla-stickers">Elsalla Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>👋, I'm Bhakti Banaulikar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugs2106&label=Profile%20views&color=0e75b6&style=flat" alt="bugs2106" /> </p>
