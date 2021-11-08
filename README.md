@@ -20,14 +20,16 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugs2106&label=Profile%20views&color=0e75b6&style=flat" alt="bugs2106" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bugs2106" alt="bugs2106" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/bbanaulikar" target="blank"><img src="https://img.shields.io/twitter/follow/bbanaulikar?logo=twitter&style=for-the-badge" alt="bbanaulikar" /></a> </p>
 
 - 🔭 I’m currently working on **my portfolio**
+
 - 🌱 I’m currently learning **JavaScript and Photoshop**
+
 - 💬 Ask me about **anything that you wish to ask!**
+
 - 📫 How to reach me **bhakti9706@gmail.com**
+
 - ⚡ Fun fact **I love FUSION<3**
 
 <h3 align="left">Connect with me:</h3>
