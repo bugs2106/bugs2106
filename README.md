@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://dev.to/bugs2106" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bugs2106" height="30" width="40" /></a>
 <a href="https://twitter.com/bbanaulikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bbanaulikar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhakti-banaulikar-970268225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhakti-banaulikar-970268225" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhakti banaulikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhakti banaulikar" height="30" width="40" /></a>
 <a href="https://instagram.com/ingenious_creativity.corner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ingenious_creativity.corner" height="30" width="40" /></a>
 </p>
 
