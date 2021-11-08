@@ -46,9 +46,18 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugs2106&show_icons=true&locale=en&layout=compact&theme=radical" alt="bugs2106" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugs2106&show_icons=true&locale=en&theme=algolia" alt="bugs2106" /></p>
 
-
-
-
-
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bugs2106&theme=buefy" alt="bugs2106" /></p>
+
+### Coding Stats
+<!--START_SECTION:waka-->
+```text
+Python   16 hrs 4 mins   █████████████████████████   100.00 % 
+```
+<!--END_SECTION:waka-->
+
+
+<!--..-->
+
+ 
+[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bugs2106&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
