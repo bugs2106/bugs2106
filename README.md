@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugs2106&show_icons=true&locale=en&layout=compact&theme=radical" alt="bugs2106" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugs2106&theme=buefy" alt="bugs2106" width="350" height="140"/></p>
 
-📈 My GitHub Stats
+###📈 My GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugs2106&show_icons=true&locale=en&theme=algolia" alt="bugs2106" /></p>
 
 
@@ -66,7 +66,7 @@ Python   16 hrs 4 mins   ██████████████████�
 
 <!--..-->
 
- 
+ ###📈 My GitHub Contribution Graph
 [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bugs2106&bg_color=000000&color=fd428e&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
