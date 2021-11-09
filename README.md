@@ -51,12 +51,14 @@ Here are some ideas to get you started:
 <a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/stencil_bugs.png" height="50px" width="50px"></a>
 <a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/02_Awake%20Fox.png" height="50px" width="50px"></a>
 <a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Spiderman.png" height="50px" width="50px"></a>
-<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://github.com/bugs2106/bugs2106/blob/main/giphy.gif" height="50px" width="50px"></a>
-◻️
-◻️
-◻️
-◻️
-◻️
+<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/ABSTRACT.png" height="50px" width="50px"></a>
+<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Assignment_01%20-%20Toucan.png" height="50px" width="50px"></a>
+<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Furry_B.png" height="50px" width="50px"></a>
+<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Iron%20Man.png" height="50px" width="50px"></a>
+<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/LETTERS.png" height="50px" width="50px"></a>
+<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Panda.png" height="50px" width="50px"></a>
+<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Swan-Assignment2.png" height="50px" width="50px"></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
