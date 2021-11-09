@@ -47,7 +47,11 @@ Here are some ideas to get you started:
 ◼️ <a href="https://bugs2106.github.io/Christmas-Greetings-2020/" target="blank">Christmas Greeting Animation</a></br>
 
 ### Art & Design 📐🎨🖌️💡🖼️
-◻️ <a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://github.com/bugs2106/bugs2106/blob/main/giphy.gif" height="50px" width="50px"></a></br>
+<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/01_Sleeping%20Fox_gradient.png" height="50px" width="50px"></a>
+<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/stencil_bugs.png" height="50px" width="50px"></a>
+<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/02_Awake%20Fox.png" height="50px" width="50px"></a>
+<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Spiderman.png" height="50px" width="50px"></a>
+<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://github.com/bugs2106/bugs2106/blob/main/giphy.gif" height="50px" width="50px"></a>
 ◻️
 ◻️
 ◻️
