@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ◼️ <a href="bugs2106.github.io/tincat_remake/" target="blank">TinCat-Dating Site For Cats</a></br>
 ◼️ <a href="bugs2106.github.io/ecommerce-site/" target="blank">Ecommerce Site</a></br>
 ◼️ <a href="bugs2106.github.io/finance-website/" target="blank">Finance Website</a></br>
-◼️ <a href="bugs2106.github.io/knowledge-timeline/" target="blank">Knowledge Timeline</a></br>
+◼️ <a href="https://bugs2106.github.io/Knowledge-Timeline/" target="blank">Knowledge Timeline</a></br>
 ◼️ <a href="bugs2106.github.io/signup-form/" target="blank">Sign Up Form</a></br>
 ◼️ <a href="bugs2106.github.io/dropdown-menu/" target="blank">Dropdown Menu</a></br>
 ◼️ <a href="bugs2106.github.io/hotel-website/" target="blank">Hotel Website</a></br>
