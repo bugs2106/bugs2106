@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **JavaScript and Photoshop**
 - 💬 Ask me about **anything that you wish to ask!**
 - 📫 How to reach me **bhakti9706@gmail.com**
-- 📄 Know about me a little bit more: <a href="https://twitter.com/bbanaulikar" target="blank">My Resume</a>
+- 📄 Know about me a little bit more: <a href="https://drive.google.com/file/d/1lEY5Inw89ChmfySOQoJg_l_HQ1Lbyr9K/view?usp=sharing" target="blank">My Resume</a>
 - ⚡ Fun fact **I love FUSION<3**
 
 
