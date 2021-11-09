@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/bbanaulikar" target="blank"><img src="https://img.shields.io/twitter/follow/bbanaulikar?logo=twitter&style=for-the-badge" alt="bbanaulikar" /></a> </p>
 
-<img align="right" src="https://github.com/bugs2106/bugs2106/blob/main/giphy.gif" height="260px" width="400px">
+<img align="right" src="https://github.com/bugs2106/bugs2106/blob/main/giphy.gif" height="250px" width="400px">
 <p></p>
 
 - 🔭 I’m currently working on **my portfolio**
