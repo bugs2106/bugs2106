@@ -46,6 +46,14 @@ Here are some ideas to get you started:
 ◼️ <a href="https://bugs2106.github.io/Hotel-Website/" target="blank">Hotel Website</a></br>
 ◼️ <a href="https://bugs2106.github.io/Christmas-Greetings-2020/" target="blank">Christmas Greeting Animation</a></br>
 
+### Art & Design 📐🎨🖌️💡🖼️
+◻️ <a href="https://bugs2106.github.io/Batman/" target="blank">Batman</a></br>
+◻️
+◻️
+◻️
+◻️
+◻️
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bugs2106" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bugs2106" height="30" width="40" /></a>
