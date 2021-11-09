@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ### Art & Design 📐🎨🖌️💡🖼️
 
-<p>
+<p align="left">
 <a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/01_Sleeping%20Fox_gradient.png" height="60px" width="70px"></a>
 
 <a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/stencil_bugs.png" height="70px" width="50px"></a>
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<p align="">
+<p align="left">
 <a href="https://dev.to/bugs2106" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bugs2106" height="30" width="40" /></a>
 <a href="https://twitter.com/bbanaulikar" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bbanaulikar" height="30" width="40" /></a>
 <a href="https://in.linkedin.com/in/bhakti-b-970268225" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/bhakti-b-970268225" height="30" width="40" /></a>
