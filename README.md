@@ -53,15 +53,15 @@ Here are some ideas to get you started:
 
 <a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left"  src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/stencil_bugs.png" height="70px" width="50px"></a>
 
-<a href="https://bugs2106.github.io/Batman/" target="blank"><img  src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/02_Awake%20Fox.png" height="60px" width="70px"></a>
+<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/02_Awake%20Fox.png" height="60px" width="70px"></a>
 
-<a href="https://bugs2106.github.io/Batman/" target="blank"><img  src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Spiderman.png" height="70px" width="50px"></a>
+<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left"  src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Spiderman.png" height="70px" width="50px"></a>
 
-<a href="https://bugs2106.github.io/Batman/" target="blank"><img  src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/ABSTRACT.png" height="60px" width="70px"></a>
+<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left"  src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/ABSTRACT.png" height="60px" width="70px"></a>
 
-<a href="https://bugs2106.github.io/Batman/" target="blank"><img  src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Assignment_01%20-%20Toucan.png" height="60px" width="75px"></a>
+<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left"  src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Assignment_01%20-%20Toucan.png" height="60px" width="75px"></a>
 
-<a href="https://bugs2106.github.io/Batman/" target="blank"><img  src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Furry_B.png" height="60px" width="80px"></a>
+<a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left"  src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Furry_B.png" height="60px" width="80px"></a>
 
 <a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Iron%20Man.png" height="70px" width="50px"></a>
 
