@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github.com/bugs2106/bugs2106/blob/main/giphy.gif" height="300px" width="400px">
 
+***
 
 ### About Me 🚀
 - 🔭 I’m currently working on **my portfolio**
@@ -33,6 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **bhakti9706@gmail.com**
 - ⚡ Fun fact **I love FUSION<3**
 
+***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
