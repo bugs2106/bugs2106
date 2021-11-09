@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I love FUSION in almost anything <3**
 
 ### Projects that I have worked on as a part of learning 👩‍💻👇
-◼️ <a href="https://bugs2106.github.io/batman/" target="blank">Batman</a></br>
+◼️ <a href="https://bugs2106.github.io/Batman/" target="blank">Batman</a></br>
 ◼️ <a href="https://bugs2106.github.io/tincat_remake/" target="blank">TinCat-Dating Site For Cats</a></br>
 ◼️ <a href="https://bugs2106.github.io/ecommerce-site/" target="blank">Ecommerce Site</a></br>
 ◼️ <a href="https://bugs2106.github.io/finance-website/" target="blank">Finance Website</a></br>
