@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ◼️ <a href="https://bugs2106.github.io/SignUp-Form/" target="blank">Sign Up Form</a></br>
 ◼️ <a href="https://bugs2106.github.io/Dropdown-Menu/" target="blank">Dropdown Menu</a></br>
 ◼️ <a href="https://bugs2106.github.io/Hotel-Website/" target="blank">Hotel Website</a></br>
-◼️ <a href="https://bugs2106.github.io/Christmas-Greetings-2020/" target="blank">Christmas Greeting Animation</a></br>
+◼️ <a href="https://bugs2106.github.io/Christmas-Greetings-2020/" target="blank">Christmas Greeting Animation</a><br/>
 
 ### Art & Design 📐🎨🖌️💡🖼️
 
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Iron%20Man.png" height="70px" width="50px"></a><a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/LETTERS.png" height="60px" width="80px"></a>
   
  
-  <a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Panda.png" height="60px" width="75px"></a><a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Swan-Assignment2.png" height="60px" width="80px"></a>
+  <a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Panda.png" height="60px" width="75px"></a><a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Swan-Assignment2.png" height="60px" width="80px"></a><br/>
 
 ***
 
