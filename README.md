@@ -36,15 +36,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I love FUSION in almost anything <3**
 
 ### Projects that I have worked on as a part of learning 👩‍💻👇
-◼️ <a href="bugs2106.github.io/batman/" target="blank">Batman</a></br>
-◼️ <a href="bugs2106.github.io/tincat_remake/" target="blank">TinCat-Dating Site For Cats</a></br>
-◼️ <a href="bugs2106.github.io/ecommerce-site/" target="blank">Ecommerce Site</a></br>
-◼️ <a href="bugs2106.github.io/finance-website/" target="blank">Finance Website</a></br>
+◼️ <a href="https://bugs2106.github.io/batman/" target="blank">Batman</a></br>
+◼️ <a href="https://bugs2106.github.io/tincat_remake/" target="blank">TinCat-Dating Site For Cats</a></br>
+◼️ <a href="https://bugs2106.github.io/ecommerce-site/" target="blank">Ecommerce Site</a></br>
+◼️ <a href="https://bugs2106.github.io/finance-website/" target="blank">Finance Website</a></br>
 ◼️ <a href="https://bugs2106.github.io/Knowledge-Timeline/" target="blank">Knowledge Timeline</a></br>
-◼️ <a href="bugs2106.github.io/signup-form/" target="blank">Sign Up Form</a></br>
-◼️ <a href="bugs2106.github.io/dropdown-menu/" target="blank">Dropdown Menu</a></br>
-◼️ <a href="bugs2106.github.io/hotel-website/" target="blank">Hotel Website</a></br>
-◼️ <a href="bugs2106.github.io/Christmas-Greetings-2020/" target="blank">Christmas Greeting Animation</a></br>
+◼️ <a href="https://bugs2106.github.io/signup-form/" target="blank">Sign Up Form</a></br>
+◼️ <a href="https://bugs2106.github.io/dropdown-menu/" target="blank">Dropdown Menu</a></br>
+◼️ <a href="https://bugs2106.github.io/hotel-website/" target="blank">Hotel Website</a></br>
+◼️ <a href="https://bugs2106.github.io/Christmas-Greetings-2020/" target="blank">Christmas Greeting Animation</a></br>
 ◼️
 <h3 align="left">Connect with me:</h3>
 <p align="left">
