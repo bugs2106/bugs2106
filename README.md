@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ### Art & Design 📐🎨🖌️💡🖼️
 
-<p>
+
 <a href="https://bugs2106.github.io/Batman/" target="blank"><img src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/01_Sleeping%20Fox_gradient.png" height="60px" width="70px"></a>
 
 <a href="https://bugs2106.github.io/Batman/" target="blank"><img src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/stencil_bugs.png" height="70px" width="50px"></a>
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Panda.png" height="60px" width="75px"></a>
 
 <a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Swan-Assignment2.png" height="60px" width="80px"></a>
-</p>
+
 </br>
 
 ***
