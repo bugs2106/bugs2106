@@ -70,13 +70,12 @@ Here are some ideas to get you started:
 <a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Panda.png" height="60px" width="75px"></a>
 
 <a href="https://bugs2106.github.io/Batman/" target="blank"><img align="left" src="https://raw.githubusercontent.com/bugs2106/bugs2106/main/My%20Designs/Swan-Assignment2.png" height="60px" width="80px"></a></p>
-
 </br>
 
 
 
-
- <h3 align="left"> Connect with me:</h3>
+<hr>
+<h3 align="left"> Connect with me:</h3>
 <p align="left">
 
 <a href="https://dev.to/bugs2106" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bugs2106" height="30" width="40" /></a>
