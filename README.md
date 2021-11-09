@@ -36,14 +36,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I love FUSION in almost anything <3**
 
 ### Projects that I have worked on as a part of learning 👩‍💻👇
-🔸
-🔸
-🔸
-🔸
-🔸
-🔸
-🔸
-🔸
+◼️ <a href="bugs2106.github.io/batman/" target="blank">Batman</a>
+◼️
+◼️
+◼️
+◼️
+◼️
+◼️
+◼️
+◼️
+◼️
+◼️
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bugs2106" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bugs2106" height="30" width="40" /></a>
