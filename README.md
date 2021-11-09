@@ -75,9 +75,10 @@ Here are some ideas to get you started:
 
 
 
-### Connect with me:
+
 
 <p align="left">
+ <h3 align="left"> Connect with me:</h3>
 <a href="https://dev.to/bugs2106" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bugs2106" height="30" width="40" /></a>
 <a href="https://twitter.com/bbanaulikar" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bbanaulikar" height="30" width="40" /></a>
 <a href="https://in.linkedin.com/in/bhakti-b-970268225" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/bhakti-b-970268225" height="30" width="40" /></a>
