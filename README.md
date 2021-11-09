@@ -37,15 +37,14 @@ Here are some ideas to get you started:
 
 ### Projects that I have worked on as a part of learning 👩‍💻👇
 ◼️ <a href="bugs2106.github.io/batman/" target="blank">Batman</a>
-◼️
-◼️
-◼️
-◼️
-◼️
-◼️
-◼️
-◼️
-◼️
+◼️ <a href="bugs2106.github.io/tincat_remake/" target="blank">TinCat-Dating Site For Cats</a>
+◼️ <a href="bugs2106.github.io/ecommerce-site/" target="blank">Ecommerce Site</a>
+◼️ <a href="bugs2106.github.io/finance-website/" target="blank"Finance Website</a>
+◼️ <a href="bugs2106.github.io/knowledge-timeline/" target="blank">Knowledge Timeline</a>
+◼️ <a href="bugs2106.github.io/signup-form/" target="blank">Sign Up Form</a>
+◼️ <a href="bugs2106.github.io/dropdown-menu/" target="blank">Dropdown Menu</a>
+◼️ <a href="bugs2106.github.io/hotel-website/" target="blank">Hotel Website</a>
+◼️ <a href="bugs2106.github.io/signup-form/" target="blank">Sign Up Form</a>
 ◼️
 <h3 align="left">Connect with me:</h3>
 <p align="left">
