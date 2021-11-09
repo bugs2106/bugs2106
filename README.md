@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github.com/bugs2106/bugs2106/blob/main/giphy.gif" height="250px" width="350px">
 
-***
 
 ### About Me 🚀
 - 🔭 I’m currently working on **my portfolio**
