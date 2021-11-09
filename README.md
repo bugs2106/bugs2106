@@ -35,8 +35,15 @@ Here are some ideas to get you started:
 - 📄 Know about me a little bit more: <a href="https://drive.google.com/file/d/1lEY5Inw89ChmfySOQoJg_l_HQ1Lbyr9K/view?usp=sharing" target="blank">My Resume</a>
 - ⚡ Fun fact **I love FUSION in almost anything <3**
 
-
-
+### Projects that I have worked on as a part of learning 👩‍💻👇
+🔸
+🔸
+🔸
+🔸
+🔸
+🔸
+🔸
+🔸
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bugs2106" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bugs2106" height="30" width="40" /></a>
