@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **anything that you wish to ask!**
 - 📫 How to reach me **bhakti9706@gmail.com**
 - ⚡ Fun fact **I love FUSION<3**
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
