@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **bhakti9706@gmail.com**
 - ⚡ Fun fact **I love FUSION<3**
 
-***
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
