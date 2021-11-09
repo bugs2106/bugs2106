@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugs2106&label=Profile%20views&color=0e75b6&style=flat" alt="bugs2106" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bbanaulikar" target="blank"><img src="https://img.shields.io/twitter/follow/bbanaulikar?logo=twitter&style=for-the-badge" alt="bbanaulikar" /></a> </p>
-<br/>
-<img align="right" src="https://github.com/bugs2106/bugs2106/blob/main/giphy.gif" height="300px" width="400px">
 
+<img align="right" src="https://github.com/bugs2106/bugs2106/blob/main/giphy.gif" height="300px" width="400px">
+<br/></br/></br>
 
 - 🔭 I’m currently working on **my portfolio**
 - 🌱 I’m currently learning **JavaScript and Photoshop**
