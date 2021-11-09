@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ◼️ <a href="https://bugs2106.github.io/Christmas-Greetings-2020/" target="blank">Christmas Greeting Animation</a></br>
 
 ### Art & Design 📐🎨🖌️💡🖼️
-◻️ <a href="https://bugs2106.github.io/Batman/" target="blank">Batman</a></br>
+◻️ <a href="https://bugs2106.github.io/Batman/" target="blank"><img align="right" src="https://github.com/bugs2106/bugs2106/blob/main/giphy.gif" height="50px" width="50px"></a></br>
 ◻️
 ◻️
 ◻️
