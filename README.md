@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 ### About Me 🚀
 
 
+
+
 - 🔭 I’m currently working on **my portfolio**
 - 🌱 I’m currently learning **JavaScript and Photoshop**
 - 💬 Ask me about **anything that you wish to ask!**
