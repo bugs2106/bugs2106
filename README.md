@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **UI/UX**
 - 💬 Ask me about **anything that you wish to ask!**
 - 📫 How to reach me **bhakti9706@gmail.com**
-- 📄 Know about me a little bit more: <a href="[https://drive.google.com/file/d/1MesBtFR4PudxIMpenP7cAsvIybgcHDni/view?usp=sharing](https://drive.google.com/drive/folders/1Sdd5gRpHOIrCRZVGGRfay1jQ9Ft2-QM7?usp=sharing)" target="blank">My Resume</a>
+- 📄 Know about me a little bit more: <a href="https://drive.google.com/drive/folders/1Sdd5gRpHOIrCRZVGGRfay1jQ9Ft2-QM7?usp=sharing" target="blank">My Resume</a>
 - ⚡ Fun fact **I love FUSION in almost anything <3**
 
 ### Projects that I have worked on as a part of learning 👩‍💻👇
