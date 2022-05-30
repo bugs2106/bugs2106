@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **my portfolio**
-- 🌱 I’m currently learning **JavaScript and Photoshop**
+- 🔭 I’m currently working as **UX Designer(Intern) at GraficJam**
+- 🌱 I’m currently learning **UI/UX**
 - 💬 Ask me about **anything that you wish to ask!**
 - 📫 How to reach me **bhakti9706@gmail.com**
 - 📄 Know about me a little bit more: <a href="https://drive.google.com/file/d/1MesBtFR4PudxIMpenP7cAsvIybgcHDni/view?usp=sharing" target="blank">My Resume</a>
