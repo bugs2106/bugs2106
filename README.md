@@ -120,6 +120,8 @@ Python   16 hrs 4 mins   ██████████████████�
 <!--..-->
 
 ### My GitHub Contribution Graph 📈
-
+<!--
 [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bugs2106&bg_color=000000&color=fd428e&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
