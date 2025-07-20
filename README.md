@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working as **Freelancer**
+- 🔭 I’m currently working as **Designer/Strategist**
 - 🌱 I’m currently learning **Web Development**
 - 💬 Ask me about **anything that you wish to ask!**
 - 📫 How to reach me **bhakti9706@gmail.com**
