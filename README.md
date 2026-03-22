@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Bhakti Banaulikar</h1>
-<h3 align="center">Web/APP Developer 👩‍💻 | Sr.Product Designer 🎨  | Graphic Designer ✒️| Ardent Reader 📖 | Love to Write!✍️</h3>
+<h3 align="center">Software Developer 👩‍💻 | Senior Product Designer 🎨  | Ardent Reader 📖 | Love to Write!✍️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugs2106&label=Profile%20views&color=0e75b6&style=flat" alt="bugs2106" /> </p>
 
